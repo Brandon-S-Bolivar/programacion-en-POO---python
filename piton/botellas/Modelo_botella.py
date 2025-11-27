@@ -19,4 +19,5 @@ class Botella:
         self.Grabados=Grabados_1
         
     def imprimir_info(self):
-        print(f"el material es: {self.Material} \n la capacidad es: {self.Capacidad} \n la forma es: {self.Forma} \el diseño es: {self.Diseño} \n con el grabado: {self.Grabados}")
+        print("----------------------------------------------------------------------------------------")   
+        print(f"el material es: {self.Material} \nla capacidad es: {self.Capacidad} \nla forma es: {self.Forma} \nel diseño es: {self.Diseño} \ncon el grabado: {self.Grabados}")
